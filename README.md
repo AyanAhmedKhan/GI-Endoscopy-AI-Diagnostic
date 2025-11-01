@@ -195,7 +195,7 @@ python evaluate.py --test_dir data/test --use_tta True
 
 ## 🎯 Results
 
-![Confusion Matrix](https://via.placeholder.com/600x400/00B0FF/FFFFFF?text=Confusion+Matrix)
+![Confusion Matrix](download.png)
 ![ROC Curves](https://via.placeholder.com/600x400/00B0FF/FFFFFF?text=ROC+Curves)
 
 ### Model Comparison
