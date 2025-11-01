@@ -17,22 +17,6 @@
 
 The **Gastrointestinal Endoscopy Classification System** is a cutting-edge deep learning platform that automates the detection and classification of gastrointestinal abnormalities from endoscopic images. Built with advanced Vision Transformers and optimized for clinical use, our system provides reliable, fast, and accurate diagnostic support for gastroenterologists.
 
-## 🏗️ System Architecture
-
-```mermaid
-graph TD
-    A[Endoscopy Image] --> B[Preprocessing]
-    B --> C[Data Augmentation]
-    C --> D[Vision Transformer Ensemble]
-    D --> E[DeiT-3 Model]
-    D --> F[ViT-Base Model]
-    E --> G[Feature Fusion]
-    F --> G
-    G --> H[Classification Head]
-    H --> I[Clinical Output<br/>Diagnosis + Confidence]
-    
-    style A fill:#e1f5fe
-    style I fill:#e8f5e8
 ## ✨ Key Features
 
 ### 🎯 High-Performance Classification
