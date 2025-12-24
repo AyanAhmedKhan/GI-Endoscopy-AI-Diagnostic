@@ -250,17 +250,11 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 > **Important**: This system is intended for research and educational purposes only. It should not be used as a primary diagnostic tool in clinical settings. Always consult qualified healthcare professionals for medical diagnoses.
 
-## 📞 Contact & Support
-
-- **GitHub Issues**: [Report bugs or request features](https://github.com/your-username/gi-endoscopy-ai/issues)
-- **Email**: your-email@domain.com
-- **Documentation**: [Full documentation](docs/README.md)
 
 ## 🙏 Acknowledgments
 
 - Medical experts for dataset annotation and validation
 - Open-source medical imaging communities
-- Hardware support from [Your Institution]
 
 ---
 
